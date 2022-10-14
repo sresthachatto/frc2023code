@@ -1,0 +1,66 @@
+body {
+    background-color: rgba(223, 146, 52, 0.945);
+    font-family: Georgia;
+    font-size:20px;
+}
+
+h1 {
+    color:rgb(68, 23, 23);
+    font-style: bold;
+    font-family: Georgia;
+    text-align: center;
+    font-size: 40px;
+}
+
+.mainImage {
+    display: block;
+    margin: 0 auto;
+    width: 20%;
+}
+
+
+.linkedImages {
+    width:auto;
+    height:auto;
+    display:inline block;
+    float: left;
+    margin-right:200px;
+}
+
+
+.overallSummary {
+    text-align: center;
+}
+
+.hummus {
+    width:400px;
+    height: 300px;
+}
+
+.donuts {
+    width:400px;
+    height: 300px;
+}
+
+.latte {
+    width:400px;
+    height:300px;
+}
+
+.indexList li {
+    list-style-type:none;
+    display:inline flex;
+    float:left;
+    align-content: center;
+}
+
+.individualSummary {
+    text-align:center;
+    font-style:italic;
+}
+
+.backHome li {
+    list-style:none;
+    display:inline-flex;
+    padding: 20px;
+}
