@@ -1,0 +1,46 @@
+.citation {
+    font-size:10px;
+}
+
+a {
+    color: navy;
+    font-size:30px;
+}
+
+img {
+    width: 95%;
+    height: 95%;
+    
+}
+
+.goodchoice {
+    background-color:lightgreen;
+}
+.badchoice {
+    background-color:salmon;
+}
+.end {
+    background-color:lightblue;
+}
+
+p {
+    font-style:italic;
+    font-family: Garamond;
+    font-size: 25px;
+}
+
+.endtext {
+    margin-top:20px;
+}
+
+h1 {
+    Font-family: Brush Script MT;
+    font-size:40px;
+    font-style:bold;
+}
+
+h3 {
+    font-family:Garamond;
+    font-size:30px;
+    font-style:italic;
+}
